@@ -228,8 +228,8 @@ footer {
         }
     }
 
-.about-item__img-wrap:last-child:after{
-    width: 100px;
+.about-item__img-wrap:after:last-child{
+    display: none;
 }
 
 .about-item__img {
